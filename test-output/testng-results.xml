@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21232" started-at="2020-03-09T08:32:19Z" finished-at="2020-03-09T08:32:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21232" started-at="2020-03-09T08:32:19Z" finished-at="2020-03-09T08:32:40Z">
+      <class name="jpetStore_testcases.JpetStoreSearch">
+        <test-method status="PASS" signature="startup()[pri:0, instance:jpetStore_testcases.JpetStoreSearch@13fee20c]" name="startup" is-config="true" duration-ms="16874" started-at="2020-03-09T14:02:19Z" finished-at="2020-03-09T14:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="search1()[pri:0, instance:jpetStore_testcases.JpetStoreSearch@13fee20c]" name="search1" duration-ms="2734" started-at="2020-03-09T14:02:36Z" finished-at="2020-03-09T14:02:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search1 -->
+        <test-method status="PASS" signature="search2()[pri:0, instance:jpetStore_testcases.JpetStoreSearch@13fee20c]" name="search2" duration-ms="1596" started-at="2020-03-09T14:02:39Z" finished-at="2020-03-09T14:02:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search2 -->
+      </class> <!-- jpetStore_testcases.JpetStoreSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
